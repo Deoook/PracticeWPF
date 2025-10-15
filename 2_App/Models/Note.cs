@@ -8,6 +8,6 @@ namespace _2_App.Models
 {
     public class Note
     {
-
+        int _A = 1;
     }
 }
